@@ -11,4 +11,4 @@ am sending from git
 Am currently editing
 >>>>>>> Stashed changes
 
-Hi vishnu am commiting from git
+Hi vishnu am commiting from gits
