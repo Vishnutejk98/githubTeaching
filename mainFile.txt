@@ -4,4 +4,9 @@ Am edited in localss
 =======
 Am edited in git
 >>>>>>> b3815499b8cf76abc08814009c10efde21eeb81a
+<<<<<<< Updated upstream
 am sending from git
+=======
+
+Am currently editing
+>>>>>>> Stashed changes
