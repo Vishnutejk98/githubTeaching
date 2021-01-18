@@ -1,2 +1,6 @@
 Pushing to new branch
+<<<<<<< HEAD
 Am edited in localss
+=======
+Am edited in git
+>>>>>>> b3815499b8cf76abc08814009c10efde21eeb81a
