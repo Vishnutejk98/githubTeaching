@@ -1,7 +1,2 @@
-Pushing to new branch
-<<<<<<< HEAD
-Am edited in localss
-
-<<<<<<< HEAD
-Hi vishnu am commiting from git
-am local hi
+Cleaned in repo 
+Hi
