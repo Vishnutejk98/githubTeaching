@@ -12,3 +12,4 @@ Am currently editing
 >>>>>>> Stashed changes
 
 Hi vishnu am commiting from git
+am local hi
