@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Commit number - 1
-=======
-nOTHING\
 Nothing Vishnu
->>>>>>> 48129181de4b12b23938aedd50cdeaa8c7e6599e
+
